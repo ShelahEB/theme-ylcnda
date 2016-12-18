@@ -17,7 +17,15 @@
     <!--end Bootstrap--------------------------------------------------->
 
 
-        <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
+      <!--Style Sheets-->
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
+    <!--flex slider style-->
+    <link href="flexslider.css" rel="stylesheet" type="text/css">
+    <!--flexslider css-->
+
+
+
 
          <?php wp_head(); ?>
 </head>
