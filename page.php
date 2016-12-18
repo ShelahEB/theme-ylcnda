@@ -18,3 +18,4 @@
 
 
 </div><!--edn div content-->
+<?php get_footer(); ?>
