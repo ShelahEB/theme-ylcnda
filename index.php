@@ -1,8 +1,9 @@
 <?php get_header();?>
-<?php get_sidebar():?>
+<?php get_sidebar();?>
 <div id="content"><!--start content div-->
     <!--the loop-->
-    <?php if(have_post()) : while(have_posts()): the_post();?>
+
+    <?php if(have_posts()) : while(have_posts()) : the_post(); ?>
 
     <div class="entry"><!--start class entry-->
         <h2><a href="<?php the_permalink();?>"><?php the_title();?></a></h2>
@@ -24,7 +25,7 @@
 
     <?php endwhile; else: ?>
     <p><?php _('Sorry, no posts match your criteria.');?></p>
-    <?php endif();?>
+    <?php endif;?>
     <!--end loop-->
 </div><!--end content div-->
 <?php get_footer();?>

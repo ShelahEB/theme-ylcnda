@@ -1,13 +1,9 @@
-<div id="footer"><!--start footer div-->
-    <cite>
-        &copy; <?php echo date('Y');?><a href="<?php bloginfor('url');?>">Ylucionada</a>.All rights reserved.
-
-    </cite>
-
-
-</div><!--end footer div-->
-
+<div id="footer">
+        <cite>
+        &copy; <?php echo date('Y'); ?> <a href="<?php bloginfo('url');?>">nookhouses </a>. All rights reserved.
+        </cite>
+</div>
 <?php wp_footer(); ?>
-</div>
-</div>
-</html>
+ </div>
+ </body>
+ </html>

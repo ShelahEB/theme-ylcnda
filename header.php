@@ -14,7 +14,7 @@
         <?php wp_head();?> <!--for plugins later-->
 </head>
 
-<body <?php body_class():?>>
+<body <?php body_class();?>>
 
     <div id="page">
         <div id="header">
