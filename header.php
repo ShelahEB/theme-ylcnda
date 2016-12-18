@@ -24,6 +24,12 @@
     <link href="flexslider.css" rel="stylesheet" type="text/css">
     <!--flexslider css-->
 
+        <!--Start Scripts-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <!--for flexslider | Connects to javascript-->
+    <script src="scripts/jquery.flexslider.js"></script>
+    <!--make a call to the Flexsilder JavaScript file:-->
+    <!--End Scripts-->
 
 
 
