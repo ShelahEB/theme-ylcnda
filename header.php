@@ -84,16 +84,16 @@
             <div class="menu ">
                 <!--start navigation menu div-->
                 <ul>
-                    <li><a href="javascript:;">About</a></li>
-                    <li><a href="javascript:;" id="current">Shop</a>
+                    <li><a href="http://www.sdebdesigns.com/ylucionada/about-page/">About</a></li>
+                    <li><a href=" http://www.sdebdesigns.com/ylucionada/shop/">Shop</a>
                         <ul>
-                            <li><a href="javascript:;">Women's</a></li>
-                            <li><a href="javascript:;">Men's</a></li>
-                            <li><a href="javascript:;">Collections</a></li>
+                            <li><a href=" http://www.sdebdesigns.com/ylucionada/shop/womens">Women's</a></li>
+                            <li><a href=" http://www.sdebdesigns.com/ylucionada/shop/mens">Men's</a></li>
+                            <li><a href=" http://www.sdebdesigns.com/ylucionada/shop/collections">Collections</a></li>
                         </ul>
                     </li>
-                    <li><a href="javascript:;">Media</a></li>
-                    <li><a href="javascript:;">Contact</a></li>
+                    <li><a href="http://www.sdebdesigns.com/ylucionada/media-blog/">Media</a></li>
+                    <li><a href="http://www.sdebdesigns.com/ylucionada/contact/">Contact</a></li>
                 </ul>
             </div>
             <!--end navigation menu div-->
