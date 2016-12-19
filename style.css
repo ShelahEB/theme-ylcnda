@@ -11,14 +11,16 @@ License URI:
 General comments (optional).
  */
 
-/*
 
+
+/*
 body {
         background:#ccfff2;
         margin:10px 0;
         padding:10px 0;
         font-family: Arial, Verdana, sans-serif;
 }
+*/
 
 a, a:visited {
         color:#003326;
@@ -35,6 +37,7 @@ a:hover, a:active {
 text-align:center;
 padding:50px 0;
 }
+
 
 .sidebar {
 width:200px;
@@ -60,7 +63,7 @@ border-top:2px solid  #001a13;
 text-align:center;
 
 }
-*/
+
 
 
 /*=============================================================*/
@@ -90,6 +93,12 @@ body {
 /*-------------------Linked Fonts----------------------------*/
 
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Raleway|Slabo+27px');
+
+@font-face {
+    font-family: cursiveNotes;
+    src: url('http://sdebdesigns.com/font/cursiveNotes.ttf');
+
+}
 
 
 /*-------------------Responsive Reset Typhography----------------------------*/
@@ -148,6 +157,7 @@ a {
 	color:black;
 }
 /*-------------------Body----------------------------*/
+
 
 #wrapper {
 
@@ -354,18 +364,6 @@ figure.cta_effect:hover p {
 
 }
 
-
-
-/*-------------------You are here Links---------------------------*/
-
-
-#clothes .clothes-link,
-#dresses .dresses-link,
-#yellowdress .yellow-link,
-#order_summary .order-link,
-#confirmation .confirm-link {
-color:pink;
-}
 
 
 /*-----------------------------------------------

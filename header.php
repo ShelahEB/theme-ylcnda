@@ -78,9 +78,9 @@
 
 
 <!-------------------------Navigation-------------------------------------------------->
-
+        <!--start navigation-->
         <nav id="full_nav">
-            <!--start navigation-->
+
             <div class="menu ">
                 <!--start navigation menu div-->
                 <ul>
